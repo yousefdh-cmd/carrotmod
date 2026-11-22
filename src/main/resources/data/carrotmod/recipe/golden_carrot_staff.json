@@ -1,0 +1,252 @@
+{
+  "type": "extendedcrafting:shapeless_table",
+  "tier": 4,
+  "ingredients": [
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    },
+    {
+      "item": "carrotmod:carrot_staff"
+    }
+  ],
+  "result": {
+    "id": "carrotmod:golden_carrot_staff"
+  }
+}

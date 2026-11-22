@@ -1,0 +1,252 @@
+{
+  "type": "extendedcrafting:shapeless_table",
+  "tier": 4,
+  "ingredients": [
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    },
+    {
+      "item": "carrotmod:golden_carrot_staff"
+    }
+  ],
+  "result": {
+    "id": "carrotmod:diamond_carrot_staff"
+  }
+}
